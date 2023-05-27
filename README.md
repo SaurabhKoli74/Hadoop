@@ -1,5 +1,5 @@
 # Hadoop
-<h3> It contains step by step explaination of some Big Data Analytics Experiments which are listed below.</h3>
+<h3> It contains step by step explanation of some Big Data Analytics Experiments which are listed below.</h3>
    <ul>
   <li>Hadoop Installation</li>
   <li>Wordcount_Mapreduce_On SingleN_cluster</li>
