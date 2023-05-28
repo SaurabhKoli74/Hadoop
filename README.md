@@ -13,4 +13,10 @@
       <li>sudo rm -r -f /usr/local/hive/  </li>   ---> Uninstall Hive
       <li>lsb_release -a</li>                     ---> Know Ubuntu Version
       <li>start-all.sh</li>                       ---> To start Hadoop Service
+      <li>hadoop fs -rm /user/hdoop/rawdata </li> ---> remove file from Hadoop system
+      <li>hadoop fs -rmr /user/hdoop/sentimentalAnaylysis </li> ---> remove Directory/Folder from Hadoop system
+      
+      
+         
    </ul>
+   
