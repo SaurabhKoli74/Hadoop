@@ -12,4 +12,5 @@
       <li>sudo apt install openssh-server </li>   ---> Extra Command for Ubuntu 18.04
       <li>sudo rm -r -f /usr/local/hive/  </li>   ---> Uninstall Hive
       <li>lsb_release -a</li>                     ---> Know Ubuntu Version
+      <li>start-all.sh</li>                       ---> To start Hadoop Service
    </ul>
